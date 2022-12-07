@@ -21,7 +21,7 @@ This program  trains a machine learning model using the MNIST database of handwr
 
 - adjust  model parameters and minimize the loss by using Model.fit()
 
--training is complete, now by using Softmax(), a probability can be returned
+-training is complete, now by using Softmax(), the probability model can be returned
 
 And the output of the program:
 ![image](https://user-images.githubusercontent.com/118382269/206130577-8afcd59a-19b3-4828-9e76-5957688cbb60.png)
