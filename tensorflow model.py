@@ -67,4 +67,4 @@ probability_model = tf.keras.Sequential([
 ])
 
 print("\n", probability_model(x_test[:5]))
-#return a probability
+#return the  probability model
