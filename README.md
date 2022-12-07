@@ -1,6 +1,7 @@
 # Tensorflow-model-using-an-existing-dataset-and-Keras
 
 This program:
+ 
  - loads a prebuilt dataset (MNIST)
  -Builds a neural network machine learning model that classifies images
  -trains a machine learning model using the MNIST database of handwritten digits, using the Keras API
