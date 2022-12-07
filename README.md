@@ -5,7 +5,7 @@ This program  trains a machine learning model using the MNIST database of handwr
 
 - the MNIST dataset is loaded and then prepared, converted to the sample data from integers to floating-point numbers
 
-- a tf.keras.Sequential model is built by stacking layers
+-  tf.keras.Sequential builds the model by stacking layers
 
 - converts the logits to probabilities for each class using  tf.nn.softmax(predictions).numpy()
 
