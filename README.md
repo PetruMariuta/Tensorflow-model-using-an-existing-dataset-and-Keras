@@ -11,7 +11,7 @@ This program  trains a machine learning model using the MNIST database of handwr
 
 - losses.SparseCategoricalCrossentropy takes a vector of logits and a True bool value and returns the scalar loss
 
--log-odds, where p is the ratio of the probability of success atio of the probability of success
+-log-odds, where p is the ratio of the probability of success ratio of the probability of success
 ![image](https://user-images.githubusercontent.com/118382269/206126996-5680c781-016e-4380-a22a-bf06b7cfda8d.png)
 
 -the untrained model gives probabilities close to random (1/10 for each class)
