@@ -20,7 +20,7 @@ This program: 1st loads a prebuilt dataset (MNIST), 2nd Builds a neural network 
 
 - adjust  model parameters and minimize the loss by using Model.fit()
 
--training is complete, now by using Softmax(), the probability model can be returned
+-training is complete, now by using Softmax(), the probability model of the first 5 test data
 
 And the output of the program:
 ![image](https://user-images.githubusercontent.com/118382269/206130577-8afcd59a-19b3-4828-9e76-5957688cbb60.png)
